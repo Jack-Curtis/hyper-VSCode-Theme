@@ -20,10 +20,6 @@
 		"button.foreground": "#fff",
 		"button.hoverBackground": "#333",
 
-		// contrast
-		// "contrastActiveBorder": "#000",
-		// "contrastBorder": "#000",
-
 		// debug
 		"debugExceptionWidget.background": "#000",
 		"debugExceptionWidget.border": "#333",
@@ -51,8 +47,8 @@
 		"editor.findMatchBackground": "#333",
 
 		// Other Found Items int the document
-		"editor.findMatchHighlightBackground": "#181818",
-		"editor.findRangeHighlightBackground": "#181818",
+		"editor.findMatchHighlightBackground": "#333",
+		"editor.findRangeHighlightBackground": "#333",
 
 		// When you hover over something and a popup shows
 		"editor.hoverHighlightBackground": "#000",
@@ -130,8 +126,8 @@
 		"editorWarning.border": "#C7C329",
 		"editorWarning.foreground": "#000",
 		"editorWhitespace.foreground": "#3C9F4A",
-		"editorWidget.background": "#3C9F4A",
-		"editorWidget.border": "#333",
+		"editorWidget.background": "#000",
+		"editorWidget.border": "#C616B7",
 		"errorForeground": "#A22929",
 
 		// extensionButton
@@ -252,8 +248,8 @@
 		// tab
 		"tab.activeBackground": "#000",
 		"tab.activeForeground": "#fff",
-		"tab.border": "#000",
-		"tab.activeBorder": "#C616B7",
+		"tab.border": "#333",
+		"tab.activeBorder": "#000",
 		"tab.inactiveBackground": "#000",
 		"tab.inactiveForeground": "#333",
 		"tab.unfocusedActiveForeground": "#333",
@@ -306,10 +302,6 @@
 		// "welcomePage.buttonBackground": "#193549",
 		// "welcomePage.buttonHoverBackground": "#0d3a58",
 		// "widget.shadow": "#00000026"
-
-
-		
-
 	},
 	"tokenColors": [
 		{
