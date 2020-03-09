@@ -175,13 +175,13 @@
 		"merge.incomingHeaderBackground": "#185294",
 
 		// ***notification colors - The colors below only apply for VS Code versions 1.21 and higher.
-		"notificationCenter.border": "#fff",
+		"notificationCenter.border": "#333",
 		"notificationCenterHeader.foreground": "#fff",
 		"notificationCenterHeader.background": "#000",
-		"notificationToast.border": "#fff",
-		"notifications.foreground": "#fff",
-		"notifications.background": "#fff",
-		"notifications.border": "#fff",
+		"notificationToast.border": "#333",
+		"notifications.foreground": "#000",
+		"notifications.background": "#000",
+		"notifications.border": "#333",
 		"notificationLink.foreground": "#C616B7",
 
 		// panel
