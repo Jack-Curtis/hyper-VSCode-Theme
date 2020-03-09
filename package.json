@@ -1,6 +1,5 @@
 {
     "name": "hyper",
-    "publisher": "Jack-Curtis",
     "displayName": "Hyper Theme",
     "description": "Dark theme to match hyper terminal",
     "version": "1.0.0",
@@ -18,5 +17,10 @@
                 "path": "./themes/Hyper-color-theme.json"
             }
         ]
-    }
+    },
+    "publisher": "Jack-Curtis",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Jack-Curtis/hyper-VSCode-Theme"
+      }
 }
